@@ -4,7 +4,7 @@
 
 吾爱破解 爱盘 [爱盘链接](https://down.52pojie.cn/)
 
-谛叶工具包 DiYeh-Tools [下载链接](https://mega.nz/file/uBZSRZTZ#CU8_HPuaDNhemVBkf2te4D7lCtlKTtYXuL26tJU7sBk)
+谛叶工具包 DiYeh-Tools [下载链接](https://mega.nz/file/DNRz3S6A#RamyLP-Qa-OaO0wxr2u7KZnBzvNz7YjdmfW_DFKSQPo)
 
 ****
 
@@ -32,3 +32,6 @@
 - 添加 WPE
 - 添加 Easy2Game
 - 添加 CCProxy
+
+----- 2025/11/08 -----
+- 添加 portacle
