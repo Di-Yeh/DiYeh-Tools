@@ -4,7 +4,7 @@
 
 吾爱破解 爱盘 [爱盘链接](https://down.52pojie.cn/)
 
-谛叶工具包 DiYeh-Tools [下载链接](https://mega.nz/file/DNRz3S6A#RamyLP-Qa-OaO0wxr2u7KZnBzvNz7YjdmfW_DFKSQPo)
+谛叶工具包 DiYeh-Tools [下载链接](https://mega.nz/file/6A4hxSBR#2bd2gfjHibFGXXobexQObrWfwX7RjtLUZ66mT8Cbx60)
 
 ****
 
