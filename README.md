@@ -4,18 +4,6 @@
 
 吾爱破解 爱盘 [爱盘链接](https://down.52pojie.cn/)
 
-谛叶工具包 DiYeh-Tools [下载链接](https://mega.nz/file/udQSFQ5I#ClVAeFBtI4PmtQvkz_vxbdFFzbcEDas2cprL_qKRbd4)
+谛叶工具包 DiYeh-Tools [下载链接](https://mega.nz/file/TI50nKAC#4QM7LC1fCRhnNw-NXD1aS_Ji5efL4XJ9CXZBrprU1Aw)
 
-****
-
-## ✨ 预览图片
-
-<img width="433" height="721" alt="p1" src="https://github.com/user-attachments/assets/dd7b1f57-0fd2-41d1-b775-15f7a6894c63" />
-
-****
-
-<img width="433" height="721" alt="p2" src="https://github.com/user-attachments/assets/54c2f67b-06b7-44f6-9092-304cbb3f9c19" />
-
-****
-
-<img width="433" height="721" alt="p3" src="https://github.com/user-attachments/assets/d7f0696f-3c18-4ed1-a954-f29e3853c976" />
+谛叶工具包轻量版 DiYeh-Tools-Ligth [下载链接](https://mega.nz/file/7dwDVCCL#f1JRnv9zL5hJmXSlF6NAIHnvQcuMQJJYyYyXtbg-zPo)
